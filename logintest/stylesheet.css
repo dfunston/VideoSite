@@ -1,0 +1,69 @@
+body{
+	padding: 0px 3px;
+	margin: 0px;
+}
+
+#header{
+	border: #00F 1px solid;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	height: 95px;
+}
+
+#logo{
+	border: #000 1px solid;
+	vertical-align: top;
+	float: left;
+	display:inline-block;
+	margin: 0px;
+	padding: 0px;
+	height: 95px;
+	min-width: 95px;
+	
+}
+
+#logo li{
+	list-style: none;
+}
+
+#search{
+	display: inline-table;
+	border: #000 1px solid;
+	float: left;
+	vertical-align: middle;
+	margin: 0px;
+	margin-left: 10%;
+	padding: 0px;
+	height: 95px;
+	/*min-width: 500px;*/
+	
+}
+
+#search li{
+	list-style: none;
+}
+
+#search form{
+	margin: 32px 0px 0px;
+	padding: 0px;
+}
+
+#searchbar{
+	width: 500px;
+}
+
+#account{
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+	float: right;
+	border: #000 1px solid;
+	height: 95px;
+	
+}
+
+#account li{
+	list-style: none;
+}

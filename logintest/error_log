@@ -1,0 +1,4 @@
+[24-Apr-2014 17:54:42 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/inbriat/public_html/testing/vidtest/logintest/login.php on line 52
+[24-Apr-2014 18:04:07 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/inbriat/public_html/testing/vidtest/logintest/login.php on line 71
+[24-Apr-2014 18:04:52 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/inbriat/public_html/testing/vidtest/logintest/login.php on line 70
+[24-Apr-2014 18:20:06 America/New_York] PHP Fatal error:  Call to undefined function myConnect() in /home/inbriat/public_html/testing/vidtest/logintest/login.php on line 55
